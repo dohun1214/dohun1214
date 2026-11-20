@@ -35,8 +35,14 @@
 | --- | --- | --- | --- |
 | [같이살림](https://github.com/GachiSallim-UMC/backend) | 집안일, 공동 지출 정산, 공용 물품을 관리하는 공동생활 서비스 | UMC 10기 · 10명 팀, 백엔드 4명 중 1명 | NestJS, Prisma, PostgreSQL |
 | [Dailift](https://github.com/dohun1214/dailift) | 운동·식단 기록 앱과 오프라인 동기화 서버. [App Store](https://apps.apple.com/app/id6816855441) 출시 후 운영 중 | 개인 프로젝트 · 1인 개발 | React Native, PostgreSQL |
-| [StockMate AI](https://github.com/DMU-StockMate/stockmate-ai) | 뉴스·공시를 근거로 답하는 주식 투자 학습 서비스의 AI 서버 | 졸업작품 · 3명 팀, AI 서버 담당 | FastAPI, LangChain, Qdrant |
+| [StockMate AI](https://github.com/DMU-StockMate/stockmate-ai) | 뉴스·공시를 근거로 답하는 주식 투자 학습 서비스의 AI 서버 | 졸업작품 · 3명 팀, AI 서버 담당 · 캡스톤디자인 경진대회 우수상 | FastAPI, LangChain, Qdrant |
 | [RoomLens](https://github.com/dohun1214/roomlens) | 방을 3D로 복원해 실제 치수로 가구를 배치해 보는 웹 서비스 | 교내 AI 활용 경진대회 출품 예정 · 1인 개발 | Next.js, Three.js |
+
+### Awards
+
+| 날짜 | 내용 |
+| --- | --- |
+| 2026.11 | 2026학년도 캡스톤디자인 스마트 SW 개발 경진대회 우수상 (동양미래대학교 컴퓨터소프트웨어공학과), StockMate |
 
 ### Activities
 
